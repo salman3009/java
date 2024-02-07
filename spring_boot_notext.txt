@@ -1,0 +1,15 @@
+Setup for Spring initializr:
+How to initilize the spring boot:
+https://www.geeksforgeeks.org/spring-initializr/
+
+How to import in IntelliJ
+https://www.geeksforgeeks.org/how-to-create-a-spring-boot-project-in-spring-initializr-and-run-it-in-intellij-idea/
+
+Spring inilializ link:
+https://start.spring.io/
+
+Folder structure for Spring boot:
+https://medium.com/@hackwithharsha123/a-quick-guide-to-spring-boot-starter-project-structure-adb7082e8e92
+
+RESTAPI without Databse 
+https://www.javaguides.net/2022/06/spring-boot-crud-example-without-database.html

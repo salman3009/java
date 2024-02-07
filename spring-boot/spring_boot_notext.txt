@@ -1,0 +1,5 @@
+Setup for Spring initializr:
+Greek link:
+https://www.geeksforgeeks.org/spring-initializr/
+Spring inilializ link:
+https://start.spring.io/
